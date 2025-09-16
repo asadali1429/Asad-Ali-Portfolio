@@ -1,6 +1,6 @@
 # 🎮 Asad Ali - Unity Game Developer  
 
-Hi! I’m **Asad Ali**, a Unity game developer with 3+ years of experience creating fun, interactive, and educational games. I specialize in **Unity (C#), Lua scripting, AR/VR, multiplayer systems, and Firebase integration**.  
+Hi! I’m **Asad Ali**, a Unity game developer with 3+ years of experience creating fun, interactive, and educational games. I specialize in **Unity (C#), MediaPipe integrations, AR/VR, multiplayer systems,REST API,Analytics, Firebase, and Lua scripting**.  
 
 I love building engaging experiences that combine creativity with strong technical foundations.  
 
