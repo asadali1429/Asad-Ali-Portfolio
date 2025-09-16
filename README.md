@@ -42,11 +42,11 @@ I love building engaging experiences that combine creativity with strong technic
 
 ## 🛠 Skills  
 
-- **Game Engines:** Unity (3D/2D), Highrise  
-- **Programming:** C#, Lua, .NET Core  
-- **AR/VR:** Vuforia, AR Foundation  
-- **Multiplayer:** FishNet, Photon, Highrise networking  
-- **Backend:** Firebase, REST APIs, AWS (VM setup)  
+- **Game Engines:** Unity (3D/2D/VR), Highrise
+- **Programming:** C#, Lua, .NET Core
+- **AR/VR:** Vuforia, AR Foundation
+- **Multiplayer:** FishNet, Highrise networking
+- **Backend:** Firebase, REST APIs
 - **Other:** Git, UI/UX design, Gameplay design, Puzzle design  
 
 ---
