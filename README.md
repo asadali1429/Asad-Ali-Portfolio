@@ -35,7 +35,8 @@ The simulation emphasizes **realistic VR hand interactions, NPC student behavior
   - Calibration system adapting to player height & distance  
   - Scoring, timer, and progression systems  
   - Polished UI, animations, and responsive feedback  
-- Combines **AI-driven motion tracking** with engaging gameplay.  
+- Combines **AI-driven motion tracking** with engaging gameplay.
+  
 🔗 [Watch Gameplay Demo](https://drive.google.com/file/d/12NUQAuvBTP7Egujkw0aJWYJ5A5I2MTSN/view)  
 
 ---
@@ -44,7 +45,7 @@ The simulation emphasizes **realistic VR hand interactions, NPC student behavior
 - Zoo management simulation with **30+ animals**.  
 - Features **lootbox system, animal rarity tiers, visitor simulation, notifications, and bestiary panel**.  
 - Includes habitat upgrades, trading, and player economy.  
-🔗 [Play / Demo Link](#)  
+🔗 [Play / Demo Link](https://highrise.game/world/67a301da1ecc49f9e7980830)  
 
 ---
 
@@ -52,7 +53,7 @@ The simulation emphasizes **realistic VR hand interactions, NPC student behavior
 - Multiplayer **puzzle-adventure** game made in Highrise.  
 - Includes **environment puzzles, logical puzzles, and player interaction puzzles**.  
 - Features **trading system**, exploration, and survival challenges.  
-🔗 [Play / Demo Link](#)  
+🔗 [Play / Demo Link](https://highrise.game/world/673d4f4dc3f13dbbe98f4953)
 
 ---
 
