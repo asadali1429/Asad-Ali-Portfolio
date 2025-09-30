@@ -88,7 +88,8 @@ engagement and creativity among children.
 - **Languages & Scripting:** C#, Lua, .NET Core  
 - **AR/VR Development:** Vuforia, AR Foundation  
 - **Networking & Multiplayer:** FishNet, Highrise networking  
-- **Backend & Services:** Firebase, REST APIs, Analytics  
+- **Backend & Services:** Firebase, REST APIs, Analytics
+- **Ads & In-AppPurchases (IAP)**
 - **Other Tools:** Git, UI/UX Design, Gameplay Systems, Puzzle Design  
 
 ---
