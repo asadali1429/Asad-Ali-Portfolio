@@ -96,7 +96,7 @@ engagement and creativity among children.
 
 ## 📫 Contact  
 
-- 💼 [LinkedIn](https://www.linkedin.com/feed/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/asad-ali-90220620a/)  
 - 📧 asadali7295@gmail.com  
 - 🐙 [GitHub](https://github.com/)  
 
