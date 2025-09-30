@@ -24,7 +24,7 @@ Players can:
 
 The simulation emphasizes **realistic VR hand interactions, NPC student behavior, and immersive audio/visual feedback** to heighten tension and train situational awareness.It also includes dynamic scenarios, fail/success states, and a final performance report based on player actions and timing.
 
-🎥 Watch Demo Video
+🔗 [Watch Gameplay Demo](https://drive.google.com/file/d/18bxkKLUFhowEmrEQANnYGw5SdWhOkYVa/view)
 
 ---
 
@@ -36,7 +36,7 @@ The simulation emphasizes **realistic VR hand interactions, NPC student behavior
   - Scoring, timer, and progression systems  
   - Polished UI, animations, and responsive feedback  
 - Combines **AI-driven motion tracking** with engaging gameplay.  
-🔗 [Watch Gameplay Demo](#)  
+🔗 [Watch Gameplay Demo](https://drive.google.com/file/d/12NUQAuvBTP7Egujkw0aJWYJ5A5I2MTSN/view)  
 
 ---
 
