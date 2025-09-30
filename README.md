@@ -57,19 +57,28 @@ The simulation emphasizes **realistic VR hand interactions, NPC student behavior
 
 ---
 
-### 🦖 AR Dino Run  
-- Augmented Reality (AR) educational game built with **Vuforia**.  
-- Players learn alphabets through **image tracking** (e.g., "A for Apple").  
-- Designed for kids to learn while playing.  
-🔗 [App Store / Play Store Link](#)  
+### Prickly Bear
+Prickly Bear is an educational gaming platform designed for children to learn, play, and earn rewards. It features a
+variety of interactive games that allow players to collect points and redeem them for different items in the in-game
+shop. The project focuses on combining fun gameplay with meaningful learning experiences, encouraging
+engagement and creativity among children.
+ 
+🔗 [Find more info](https://pricklybear.io/)  
 
 ---
 
-### 🎯 Sniper Shooting Game (Prototype)  
-- Sniper mechanics with **zoom stages, bullet-time effects, and UI system**.  
-- Includes missions like eliminating targets and time-based objectives.  
-- Polished with **Cinemachine cameras** and UI panels.  
-🔗 [Video Demo](#)  
+### GT Car Stunt Mega Ramp Racing 
+
+🔗 [Download and Play](https://play.google.com/store/apps/details?id=com.mastermind.superhero.car.stunt)
+
+### Jail Break Game
+
+🔗 [Download and Play](https://play.google.com/store/apps/details?id=com.prison.escape.adventure.grand.plan.jailbreak.game)
+
+
+### City Construction Games Sim 3D 
+
+🔗 [Download and Play](https://play.google.com/store/apps/details?id=com.mastermind.extremetrucks.city.construction.tractor.game)
 
 ---
 
